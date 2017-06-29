@@ -5,7 +5,7 @@
     <div class="row">
       
       <div class="col-xs-12">
-        <h2>About</h2>
+        <h2>About 3</h2>
       </div>
     
     </div>
